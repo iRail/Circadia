@@ -12,26 +12,27 @@
 </p>
 
 <h2>Main features of the app</h2>
-<ol>
+<ul>
     <li>Check-in system for the events</li>
     <li>Leaderboard to see how users compete against eachother</li>
     <li>"Heatmap" to see where all the popular locations are: less popular locations = more points</li>
-</ol>
+</ul>
 
 <h2>Default app flow</h2>
-    <h3>Check for events</h3>
+<h3>Check for events</h3>
+The user checks for events that are going on in Ghent, after making a choice he/she gets a route to the location.
 
+<h3>Go to location</h3>
+By using the route, the user goes to the location (hopefully on time!).
 
-    <h3>Go to location</h3>
+<h3>Check in at event</h3>
+After arriving at the event, the user checks in at the location
 
+<h3>Attend event</h3>
+The user attends the event -- no interaction is needed for this step
 
-    <h3>Check in at event</h3>
+<h3>Check out</h3>
+Checking out of the event makes sure we have a timestamp for entrance and exit: this means that users have to stay a certain amount of time in order to receive points (to avoid cheating the leaderboards)
 
-
-    <h3>Attend event</h3>
-
-
-    <h3>Check out</h3>
-
-    
-    <h3>Receive points</h3>
+<h3>Receive points</h3>
+Points are tallied up and added to the account. Leaderboards are updated
